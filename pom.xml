@@ -34,7 +34,7 @@
                     <appendAssemblyId>false</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <mainClass>main.Main</mainClass>
+                            <mainClass>org.webservice.main.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
